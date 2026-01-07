@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    color: #000000;
+    margin: 20px;
+}
+
+h1 {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: #333333;
+    margin: 10px;
+}
+
+ul {
+    margin: 20px;
+}
+
+li {
+    margin: 5px;
+}
+
+a {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: #0066cc;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    color: #003366;
+    text-decoration: underline;
+}
+
+img {
+    margin: 15px;
+}
