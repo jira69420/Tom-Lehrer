@@ -1,13 +1,19 @@
 body {
     font-family: Helvetica, Arial, Verdana, sans-serif;
-    background-color: #f0f0f0;
-    color: #000000;
+    background-color: #e0f0e0;
+    color: #201020;
     margin: 20px;
 }
 
+p {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    color: #443444;
+    margin: 10px;
+}
+    
 h1 {
     font-family: Helvetica, Arial, Verdana, sans-serif;
-    color: #333333;
+    color: #332333;
     margin: 10px;
 }
 
